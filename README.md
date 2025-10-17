@@ -1,3 +1,4 @@
+Note: This is a fork of IntelBluetoothFirmware stripped for Intel AC Wireless 9461
 # IntelBluetoothFirmware
 
 ![CI](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/workflows/CI/badge.svg)
